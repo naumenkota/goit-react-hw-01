@@ -1,0 +1,12 @@
+.ul{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.li{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
